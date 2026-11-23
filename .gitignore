@@ -1,0 +1,16 @@
+# Dados do painel (vendas, clientes, tokens). NUNCA subir para o GitHub.
+data/
+*.db
+*.db-shm
+*.db-wal
+
+# Segredos e configuracoes locais
+.env
+.env.*
+.claude/settings.local.json
+
+# Sistema
+node_modules/
+.DS_Store
+Thumbs.db
+*.log

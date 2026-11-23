@@ -1,0 +1,13 @@
+{
+  "name": "painel-rastreamento",
+  "version": "1.0.0",
+  "description": "Painel de rastreamento de Facebook Ads (Meta Ads) com webhooks das plataformas de venda. Personalize em marca.json.",
+  "main": "server.js",
+  "private": true,
+  "engines": { "node": ">=22.13" },
+  "scripts": {
+    "start": "node --no-warnings server.js",
+    "senha": "node --no-warnings scripts/nova-senha.js",
+    "verificar": "node --no-warnings scripts/verificar.js"
+  }
+}

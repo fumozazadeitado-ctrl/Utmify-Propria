@@ -1,0 +1,11 @@
+{
+  "nome": "MeuTrack",
+  "id": "meutrack",
+  "slogan": "rastreamento de anúncios",
+  "titulo_login": "Saiba exatamente quais anúncios dão lucro.",
+  "texto_login": "Rastreamento avançado de Facebook Ads: conecte suas contas de anúncio e suas plataformas de venda e veja o resultado real de cada criativo.",
+  "cor_principal": "#2f6bff",
+  "cor_secundaria": "#7c3aed",
+  "cadastro_aberto": false,
+  "porta": 3000
+}
